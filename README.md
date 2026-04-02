@@ -12,10 +12,10 @@ A simple and user-friendly Network Port Scanner with a Graphical User Interface 
 📈 Real-time scan progress
 
 🛠️ Technologies Used
- Python 3
-Tkinter (GUI development)
-Socket Programming
-Threading
+* Python 3
+*Tkinter (GUI development)
+*Socket Programming
+*Threading
 
 💻 Installation & Usage
 1️⃣ Clone the Repository
@@ -27,10 +27,13 @@ python main.py
 
 projects
 👥 End Users
-Students
-Network Administrators
-Cybersecurity Beginners
-IT Professionals
+*Students
+
+*Network Administrators
+
+*Cybersecurity Beginners
+
+*IT Professionals
 
   
 
